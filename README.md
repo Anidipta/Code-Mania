@@ -23,7 +23,3 @@ Your one-stop guide to programming basics across **10 different languages**:
 Whether you're a beginner or an expert, **Code Mania** is here to make coding fun & easy! 🚀  
 
 📌 **Star this repository** ⭐ and start your coding journey today! 💻  
-## 🌟 **Join the Coding Fun!** 🎉  
-Whether you're a beginner or an expert, **Code Mania** is here to make coding fun & easy! 🚀  
-
-📌 **Star this repository** ⭐ and start your coding journey today! 💻  
