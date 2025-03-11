@@ -16,23 +16,6 @@ Your one-stop guide to programming basics across **10 different languages**:
 
 ## 📚 What You’ll Find Here:  
 
-### ✅ **1. Hello, World! 🌍**  
-Start coding with the classic "Hello, World!" in all **10 languages**!  
-
-### ✅ **2. Arithmetic Operations ➕➖✖️➗**  
-Learn how to perform basic mathematical operations in each language.  
-
-### ✅ **3. Logical Operations & Conditions 🔄**  
-Explore conditional statements like `if`, `else`, and logical gates (`&&`, `||`, `!`).  
-
-### ✅ **4. Loops & Iterations 🔁**  
-Master loops like `for`, `while`, and `do-while` across different languages.  
-
-### ✅ **5. Functions & Methods ⚡**  
-Understand how functions work and how to define them in multiple languages.  
-
-### ✅ **6. Object-Oriented Programming (OOP) 🏛️**  
-Dive into OOP concepts like Classes, Objects, Inheritance, and Polymorphism.  
 
 ---
 
