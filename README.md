@@ -16,6 +16,11 @@ Your one-stop guide to programming basics across **10 different languages**:
 
 ## 📚 What You’ll Find Here:  
 
+- **Basic-Array & String** – Master the fundamentals of arrays and strings in different languages.  
+- **Hello World** – Your first program in 10 languages, from Java to Move! 🌎  
+- **Number Operation** – Learn how to perform arithmetic, bitwise, and logical operations efficiently. 🔢  
+- **Searching-Array** – Implement linear, binary, and interpolation search techniques. 🔍  
+- **Sorting-Array** – Sort arrays using Bubble, Quick, Merge, Insertion, Selection, Heap, and Cocktail sort. 📊  
 
 ---
 
